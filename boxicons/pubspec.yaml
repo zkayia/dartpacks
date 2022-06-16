@@ -1,0 +1,27 @@
+name: boxicons
+description: https://boxicons.com for flutter.
+version: 2.1.2
+homepage: https://github.com/zkayia/dartpacks
+issue_tracker: https://github.com/zkayia/dartpacks/issues
+repository: https://github.com/zkayia/dartpacks
+
+
+publish_to: none
+
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: Boxicons
+      fonts:
+        - asset: fonts/boxicons.ttf
